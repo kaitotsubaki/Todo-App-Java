@@ -2,7 +2,7 @@
 
 
 ## 💻 Sobre o projeto
- Esse projeto foi desenvolvido no curso de lógica de programação III da Capgemini Start. É uma Aplicação para o gerenciamento de projetos e as tarefas envolvidas nesses projetos.
+  Esse projeto foi desenvolvido no BOOTCAMP Santander 2025 DIO. É uma Aplicação para o gerenciamento de projetos e as tarefas envolvidas nesses projetos.
 
 
 ### 🚀 Entidades:
